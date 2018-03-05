@@ -1,0 +1,4 @@
+[submodule "elinks"]
+	path = elinks
+	url = https://github.com/shedbuilt/elinks.git
+    branch = .
