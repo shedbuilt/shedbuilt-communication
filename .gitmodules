@@ -2,3 +2,7 @@
 	path = elinks
 	url = https://github.com/shedbuilt/elinks.git
     branch = .
+[submodule "qodem"]
+	path = qodem
+	url = https://github.com/shedbuilt/qodem.git
+	branch = .
