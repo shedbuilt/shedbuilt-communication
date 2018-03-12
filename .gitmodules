@@ -6,3 +6,7 @@
 	path = qodem
 	url = https://github.com/shedbuilt/qodem.git
 	branch = .
+[submodule "netsurf"]
+	path = netsurf
+	url = https://github.com/shedbuilt/netsurf.git
+	branch = .
