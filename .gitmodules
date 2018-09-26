@@ -10,3 +10,7 @@
 	path = netsurf
 	url = https://github.com/shedbuilt/netsurf.git
 	branch = .
+[submodule "openssh"]
+	path = openssh
+	url = https://github.com/shedbuilt/openssh.git
+	branch = .
